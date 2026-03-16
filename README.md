@@ -100,7 +100,7 @@ Electronics Plate
 
 See the full architecture document:
 
-[System Architecture PDF](architecture/system_architecture.pdf)
+[Mission and System Architecture PDF](electronics/MissionAndSystemArchitecture.pdf)
 
 ---
 
