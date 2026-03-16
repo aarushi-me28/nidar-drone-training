@@ -1,6 +1,6 @@
 # NIDAR Drone System Training
 
-This repository contains my work for the **NIDAR (National Innovation Challenge for Drone Application and Research) Disaster Management Drone System project**.
+This repository contains my work for the **NIDAR (National Innovation Challenge for Drone Application and Research) Disaster Management Drone System project training at RISC**.
 
 The project is divided into three main components:
 
