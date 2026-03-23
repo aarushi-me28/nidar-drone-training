@@ -48,6 +48,30 @@ Contains ROS2 launch files to run multiple nodes.
 ![](screenshots/week0/rostask4launch.png)
 
 ---
+---
+
+# 📅 Week 1 – ROS2 and PX4 Integration
+
+## 🧪 Simulation and Node Execution
+
+The following screenshot demonstrates the integration of ROS2 nodes with the PX4 SITL simulation environment in Gazebo.
+
+![](screenshots/Week1/nidar_ros_task6.png)
+
+The terminal outputs show:
+- Successful initialization of PX4 SITL
+- Communication via microRTPS (DDS bridge)
+- Execution of the custom ROS2 `takeoff_node`
+- Continuous message publishing and node activity
+
+The Gazebo simulation confirms that the drone model is running in the simulated environment, while the ROS2 node is actively interacting with the PX4 flight stack.
+
+The log shows successful takeoff sequence execution via the ROS2 node.
+
+This validates successful integration between ROS2, PX4, and Gazebo, forming the foundation for autonomous drone control.
+
+---
+---
 
 # 🛠️ CAD Designs
 
