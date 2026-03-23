@@ -28,6 +28,8 @@ setup(
                             "altitude_subscriber = drone1_pkg.altitude_subscriber:main",
                             "arm_server = drone1_pkg.arm_server:main",
                             "arm_client = drone1_pkg.arm_client:main",
+                            "takeoff_node = drone1_pkg.takeoff_node:main",
+                            "waypoint_node = drone1_pkg.waypoint_node:main"
         ],
     },
 ) 
